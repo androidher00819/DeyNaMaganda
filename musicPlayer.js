@@ -8,7 +8,7 @@ playPauseBtn.addEventListener("click", togglePlayPause);
 const tracks = [
   {
     src: "assets/songs/Cup of Joe, Janine Teñoso - Tingin (Official Lyric Video).mp3",
-    albumArt: "/assets/images/Deydey.jpg",
+    albumArt: "/assets/img/Deydey.jpg",
     trackTitle: "Tingin",
     bandName: "Cup of Joe, Janine Teñoso",
     duration: "4:04", // Format: "minutes:seconds"
